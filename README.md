@@ -1,4 +1,3 @@
-```markdown
 # 🚀 TikTok AI Streamer Bot v2.5 (Groq Edition)
 
 Bot interaktif untuk TikTok Live yang menggabungkan pembaca chat otomatis dengan suara "Bocil" dan asisten AI pintar dengan suara "Ardi". Dirancang khusus untuk streamer (seperti pemain Minecraft) agar Live menjadi lebih interaktif dan menghibur.
@@ -27,8 +26,6 @@ Bot interaktif untuk TikTok Live yang menggabungkan pembaca chat otomatis dengan
    ```bash
    git clone [https://github.com/Taufik908/tiktok-ai-streamer.git](https://github.com/Taufik908/tiktok-ai-streamer.git)
    cd tiktok-ai-streamer
-
-```
 
 2. **Instal Library yang Dibutuhkan:**
 ```bash

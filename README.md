@@ -24,8 +24,8 @@ Bot interaktif untuk TikTok Live yang menggabungkan pembaca chat otomatis dengan
 
 1. **Clone Repository ini:**
    ```bash
-   git clone [https://github.com/Taufik908/tiktok-ai-streamer.git](https://github.com/Taufik908/tiktok-ai-streamer.git)
-   cd tiktok-ai-streamer
+   git clone [https://github.com/Taufik908/AI-TikTok-Streamer.git]
+   cd AI-TikTok-Streamer
 
 2. **Instal Library yang Dibutuhkan:**
 ```bash

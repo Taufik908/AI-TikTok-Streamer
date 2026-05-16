@@ -50,6 +50,14 @@ python main.py
 
 ```
 
+## ⚠️ Disclaimer
+Penting: Project ini menggunakan library pihak ketiga yang tidak berafiliasi dengan TikTok.
+
+Perubahan API: TikTok dapat mengubah struktur data atau sistem keamanan mereka sewaktu-waktu, yang dapat menyebabkan bot ini berhenti berfungsi hingga library TikTokLive diperbarui.
+
+Risiko Akun: Penggunaan bot otomatis pada platform pihak ketiga memiliki risiko terhadap akun. Gunakan dengan bijak dan tanggung risiko sendiri (Use at your own risk).
+
+Penyalahgunaan: Pengembang tidak bertanggung jawab atas penyalahgunaan kode ini yang melanggar ketentuan layanan platform.
 
 ## 📝 Lisensi
 

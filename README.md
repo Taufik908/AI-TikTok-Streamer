@@ -61,4 +61,6 @@ Penyalahgunaan: Pengembang tidak bertanggung jawab atas penyalahgunaan kode ini 
 
 ## 📝 Lisensi
 
-Project ini bersifat open-source. Silakan modifikasi sesuai kebutuhan streaming kamu!
+Project ini dilisensikan di bawah **MIT License**. Artinya, kamu bebas untuk menggunakan, menyalin, memodifikasi, dan mendistribusikan kode ini, bahkan untuk tujuan komersial, selama kamu tetap mencantumkan kredit kepada penulis asli.
+
+Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.

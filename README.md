@@ -57,5 +57,3 @@ python main.py
 ## 📝 Lisensi
 
 Project ini bersifat open-source. Silakan modifikasi sesuai kebutuhan streaming kamu!
-
-```
